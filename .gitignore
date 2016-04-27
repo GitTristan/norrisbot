@@ -5,6 +5,8 @@
 logs
 *.log
 
+.env
+
 # Runtime data
 pids
 *.pid
